@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
 <header>
     <h1>Charon Kole</h1>
     <p>Technicien informatique | Réseaux & systèmes</p>
