@@ -94,32 +94,32 @@ footer {
 }
 
 .card {
-transition: transform 0.3s ease, box-shadow 0.3s ease;
-text-decoration: none;
-color: inherit;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-decoration: none;
+  color: inherit;
 }
 
 
 .card:hover {
-transform: translateY(-8px);
-box-shadow: 0 15px 30px rgba(0,0,0,0.15);
+  transform: translateY(-8px);
+  box-shadow: 0 15px 30px rgba(0,0,0,0.15);
 }
 
 
 .btn {
-display: inline-block;
-margin-top: 20px;
-padding: 10px 20px;
-background: #1e1e2f;
-color: white;
-border-radius: 6px;
-text-decoration: none;
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #1e1e2f;
+  color: white;
+  border-radius: 6px;
+  text-decoration: none;
 }
 
 
 .lang {
-display: inline-block;
-margin-left: 15px;
-color: #fff;
-font-size: 14px;
+  display: inline-block;
+  margin-left: 15px;
+  color: #fff;
+  font-size: 14px;
 }
